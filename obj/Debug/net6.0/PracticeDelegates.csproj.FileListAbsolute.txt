@@ -1,0 +1,15 @@
+C:\Users\missh\source\repos\CIT195\PracticeDelegates\PracticeDelegates\bin\Debug\net6.0\PracticeDelegates.exe
+C:\Users\missh\source\repos\CIT195\PracticeDelegates\PracticeDelegates\bin\Debug\net6.0\PracticeDelegates.deps.json
+C:\Users\missh\source\repos\CIT195\PracticeDelegates\PracticeDelegates\bin\Debug\net6.0\PracticeDelegates.runtimeconfig.json
+C:\Users\missh\source\repos\CIT195\PracticeDelegates\PracticeDelegates\bin\Debug\net6.0\PracticeDelegates.dll
+C:\Users\missh\source\repos\CIT195\PracticeDelegates\PracticeDelegates\bin\Debug\net6.0\PracticeDelegates.pdb
+C:\Users\missh\source\repos\CIT195\PracticeDelegates\PracticeDelegates\obj\Debug\net6.0\PracticeDelegates.csproj.AssemblyReference.cache
+C:\Users\missh\source\repos\CIT195\PracticeDelegates\PracticeDelegates\obj\Debug\net6.0\PracticeDelegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\missh\source\repos\CIT195\PracticeDelegates\PracticeDelegates\obj\Debug\net6.0\PracticeDelegates.AssemblyInfoInputs.cache
+C:\Users\missh\source\repos\CIT195\PracticeDelegates\PracticeDelegates\obj\Debug\net6.0\PracticeDelegates.AssemblyInfo.cs
+C:\Users\missh\source\repos\CIT195\PracticeDelegates\PracticeDelegates\obj\Debug\net6.0\PracticeDelegates.csproj.CoreCompileInputs.cache
+C:\Users\missh\source\repos\CIT195\PracticeDelegates\PracticeDelegates\obj\Debug\net6.0\PracticeDelegates.dll
+C:\Users\missh\source\repos\CIT195\PracticeDelegates\PracticeDelegates\obj\Debug\net6.0\refint\PracticeDelegates.dll
+C:\Users\missh\source\repos\CIT195\PracticeDelegates\PracticeDelegates\obj\Debug\net6.0\PracticeDelegates.pdb
+C:\Users\missh\source\repos\CIT195\PracticeDelegates\PracticeDelegates\obj\Debug\net6.0\PracticeDelegates.genruntimeconfig.cache
+C:\Users\missh\source\repos\CIT195\PracticeDelegates\PracticeDelegates\obj\Debug\net6.0\ref\PracticeDelegates.dll
